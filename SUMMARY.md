@@ -4,8 +4,7 @@
 
 * [Tổng quan](README.md)
 
-## Bảng giá FTL
+## Thiết lập bảng giá FTL
 
-* [Tổng quan](bang-gia-ftl/bang-gia-ftl.md)
-* [Thiết lập bảng giá — Theo chuyến](bang-gia-ftl/thiet-lap-bang-gia-theo-chuyen.md)
-* [Thiết lập bảng giá — Theo điểm giao](bang-gia-ftl/thiet-lap-bang-gia-theo-diem-giao.md)
+* [Bảng giá theo chuyến](thiet-lap-bang-gia-ftl/thiet-lap-bang-gia-theo-chuyen.md)
+* [Bảng giá theo điểm giao](thiet-lap-bang-gia-ftl/thiet-lap-bang-gia-theo-diem-giao.md)
