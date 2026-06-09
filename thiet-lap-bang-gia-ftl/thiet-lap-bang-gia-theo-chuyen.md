@@ -133,6 +133,6 @@ Mỗi thời điểm chỉ có một bảng giá ở trạng thái **Đang hoạ
 
 ### Kết quả
 
-Sau khi hoàn tất, khách hàng có bảng giá **Theo chuyến** ở trạng thái **Đang hoạt động** hoặc **Hoạt động từ \[ngày]** theo cấu hình bạn chọn.<br>
+Sau khi hoàn tất, khách hàng có bảng giá **Theo chuyến** ở trạng thái **Đang hoạt động** hoặc **Hoạt động từ \[ngày]** theo cấu hình bạn chọn.
 
 <figure><img src="../.gitbook/assets/Đang HĐ.png" alt=""><figcaption></figcaption></figure>
