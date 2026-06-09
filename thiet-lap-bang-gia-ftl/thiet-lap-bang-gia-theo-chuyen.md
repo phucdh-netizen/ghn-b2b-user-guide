@@ -91,7 +91,9 @@ Lưu lại điền file trước khi upload.
 1.  Kéo file `.xlsx` vào vùng upload hoặc nhấn **Tải lên file Excel** để chọn file.<br>
 
     <figure><img src="../.gitbook/assets/Upload file excel.png" alt=""><figcaption></figcaption></figure>
-2.  Nhấn **Tạo bảng giá**.<br>
+
+
+2.  Nhấn **Tạo bảng giá**.
 
     <figure><img src="../.gitbook/assets/Nút TBG.png" alt=""><figcaption></figcaption></figure>
 
