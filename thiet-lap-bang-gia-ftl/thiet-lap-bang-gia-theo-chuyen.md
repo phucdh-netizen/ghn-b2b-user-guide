@@ -55,37 +55,45 @@
     * **Địa chỉ mới** gồm 2 cấp: Tỉnh/TP, Phường/Xã.
     * <mark style="color:$danger;">**Lưu ý: Chọn đúng loại địa chỉ sử dụng trước khi tải file mẫu.**</mark>
 
-    /
-3. Chọn **Theo chuyến** tại phần **Cách tính giá**.
+    <figure><img src="../.gitbook/assets/Địa chỉ sử dụng.png" alt=""><figcaption></figcaption></figure>
 
-Sau khi chọn, vùng tải file Excel sẽ xuất hiện bên dưới.
+
+3.  Chọn **Theo chuyến** tại phần **Cách tính giá**.
+
+    <figure><img src="../.gitbook/assets/Chọn theo chuyến.png" alt=""><figcaption></figcaption></figure>
 
 ### Tải và điền file mẫu
 
 Nhấn **File mẫu** để tải file đúng với loại địa chỉ đã chọn.
 
+<figure><img src="../.gitbook/assets/Tải file mẫu .png" alt=""><figcaption></figcaption></figure>
+
 File mẫu gồm các cột sau:
 
 * **Điểm đi** — bắt buộc
 * **Điểm đến** — bắt buộc
-* **Giá theo từng loại xe** — điền ít nhất một loại
+* **Giá theo từng loại xe** — điển ít nhất 1 giá cho 1 loại xe.
 
 Khi điền file, lưu ý:
 
 * Tỉnh/TP đi và đến là bắt buộc.
 * Quận/Huyện và Phường/Xã không bắt buộc.
-* Mỗi dòng tuyến phải có ít nhất một cột giá.
+* Mỗi tuyến phải có ít nhất một giá tu.
 * Không thêm, xóa, hoặc đổi tên cột tiêu đề.
 * Chỉ hỗ trợ định dạng `.xlsx`.
 
 Các loại xe hỗ trợ: `1T · 1.25T · 1.5T · 1.9T · 2T · 2.5T · 3T · 3.5T · 4T · 5T · 6T · 7T · 8T · 9T · 10T · 11T · 12T · 15T · 20HC · 40HC · 45HC`
 
-Lưu file bằng `Ctrl+S` hoặc `Cmd+S` trước khi upload.
+Lưu lại điền file trước khi upload.
 
 ### Upload file
 
-1. Kéo file `.xlsx` vào vùng upload hoặc nhấn để chọn file.
-2. Nhấn **Tạo bảng giá**.
+1.  Kéo file `.xlsx` vào vùng upload hoặc nhấn **Tải lên file Excel** để chọn file.<br>
+
+    <figure><img src="../.gitbook/assets/Upload file excel.png" alt=""><figcaption></figcaption></figure>
+2.  Nhấn **Tạo bảng giá**.<br>
+
+    <figure><img src="../.gitbook/assets/Nút TBG.png" alt=""><figcaption></figcaption></figure>
 
 Bạn có thể gặp một trong các kết quả sau:
 
@@ -105,7 +113,9 @@ Bạn có thể đưa bảng giá từ **Lưu nháp** sang hoạt động theo m
 Nhấn **Bật hoạt động** ở cột **Thao tác**.
 
 * Nếu đã có bảng giá khác đang hoạt động, hệ thống sẽ yêu cầu xác nhận.
-* Sau khi xác nhận, bảng giá mới có hiệu lực ngay.
+*   Sau khi xác nhận, bảng giá mới có hiệu lực ngay.
+
+    <figure><img src="../.gitbook/assets/Bật HĐ (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Lên lịch hoạt động
 
@@ -119,6 +129,10 @@ Nhấn **Lên lịch hoạt động** → chọn ngày → nhấn **Áp dụng**
 
 Mỗi thời điểm chỉ có một bảng giá ở trạng thái **Đang hoạt động**. Bảng giá **Hết hiệu lực** không thể kích hoạt lại.
 
+<figure><img src="../.gitbook/assets/Lên lịch HĐ.png" alt=""><figcaption></figcaption></figure>
+
 ### Kết quả
 
-Sau khi hoàn tất, khách hàng có bảng giá **Theo chuyến** ở trạng thái **Đang hoạt động** hoặc **Hoạt động từ \[ngày]** theo cấu hình bạn chọn.
+Sau khi hoàn tất, khách hàng có bảng giá **Theo chuyến** ở trạng thái **Đang hoạt động** hoặc **Hoạt động từ \[ngày]** theo cấu hình bạn chọn.<br>
+
+<figure><img src="../.gitbook/assets/Đang HĐ.png" alt=""><figcaption></figcaption></figure>
