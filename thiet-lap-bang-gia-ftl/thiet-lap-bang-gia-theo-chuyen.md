@@ -2,37 +2,60 @@
 
 **Theo chuyến** — Giá được tính cố định cho cả chuyến xe, dựa trên tuyến đường từ điểm lấy đến điểm giao. Không tính thêm dù chuyến đó có nhiều điểm giao.
 
-### Trước khi bắt đầu
+### Cần lưu ý:
 
 * Đảm bảo khách hàng đã được tạo trên hệ thống.&#x20;
 * Chọn đúng loại địa chỉ trước khi tải file mẫu.
-* Chuẩn bị file `.xlsx` để import dữ liệu giá.
+* Tải file địa chỉ mẫu `.xlsx` để import dữ liệu giá.
 
 ### Tạo bảng giá mới
 
 1.  Vào **Quản lý khách hàng**.
 
     <figure><img src="../.gitbook/assets/Quản lý KH.png" alt=""><figcaption></figcaption></figure>
-2.  Tìm khách hàng theo tên hoặc mã khách hàng. Nếu chưa có khách hàng, vui lòng chọn **Thêm khách hàng** để tạo thông tin khách hàng.<br>
+
+
+2.  Tìm khách hàng theo tên hoặc mã khách hàng. Nếu chưa có khách hàng, vui lòng chọn **Thêm khách hàng** để tạo thông tin khách hàng.
 
     <figure><img src="../.gitbook/assets/Danh sách KH.png" alt=""><figcaption></figcaption></figure>
 
 
-3. Nhấn **Xem chi tiết**.<br>
-4. Kéo xuống mục **4. Danh sách bảng giá FTL**.
-5. Nhấn **+ Tạo bảng giá mới**.
+3.  Nhấn **Xem chi tiết**.
 
-Hệ thống mở trang **Tạo bảng giá mới** với hai phần: **1. Thông tin chung** và **2. Thiết lập giá tuyến**.
+    <figure><img src="../.gitbook/assets/Xem chi tiết.png" alt=""><figcaption></figcaption></figure>
+
+
+4.  Kéo xuống mục **Danh sách bảng giá FTL**.
+
+    <figure><img src="../.gitbook/assets/Danh sách BG.png" alt=""><figcaption></figcaption></figure>
+
+
+5.  Nhấn **+ Tạo bảng giá mới**.
+
+    <figure><img src="../.gitbook/assets/Tạo BG.png" alt=""><figcaption></figcaption></figure>
+
+
+6.  Hệ thống mở trang **Tạo bảng giá mới** với hai phần: **1. Thông tin chung** và **2. Thiết lập giá tuyến**.
+
+    <figure><img src="../.gitbook/assets/Chi tiết bảng giá mới.png" alt=""><figcaption></figcaption></figure>
 
 ### Thiết lập thông tin chung
 
-1. Nhập **Tên bảng giá**.
-   * Đây là trường bắt buộc.
-   * Ví dụ: `Bảng giá Q1-2026 - KH Wilmar`
-2. Chọn **Loại địa chỉ**.
-   * **Địa chỉ cũ** gồm 3 cấp: Tỉnh/TP, Quận/Huyện, Phường/Xã.
-   * **Địa chỉ mới** gồm 2 cấp: Tỉnh/TP, Phường/Xã.
-   * Lưu ý: Chọn đúng template địa c
+1.  Nhập **Tên bảng giá**.
+
+    * Đây là trường bắt buộc.
+    * Ví dụ: `Bảng giá Q1-2026 - KH Wilmar`&#x20;
+
+    <figure><img src="../.gitbook/assets/Nhập tên BG.png" alt=""><figcaption></figcaption></figure>
+
+
+2.  Chọn **Loại địa chỉ**.
+
+    * **Địa chỉ cũ** gồm 3 cấp: Tỉnh/TP, Quận/Huyện, Phường/Xã.
+    * **Địa chỉ mới** gồm 2 cấp: Tỉnh/TP, Phường/Xã.
+    * <mark style="color:$danger;">**Lưu ý: Chọn đúng loại địa chỉ sử dụng trước khi tải file mẫu.**</mark>
+
+    /
 3. Chọn **Theo chuyến** tại phần **Cách tính giá**.
 
 Sau khi chọn, vùng tải file Excel sẽ xuất hiện bên dưới.
